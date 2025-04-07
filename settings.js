@@ -4,9 +4,9 @@ const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '';
 const mycode = process.env.CODE || "254";
-const author = process.env.OWNER_NAME || 'Keith';
-const packname = process.env.PACKNAME || 'keith';
-const dev = process.env.OWNER_NUMBER || '254748387615';
+const author = process.env.OWNER_NAME || 'Keith bot';
+const packname = process.env.PACKNAME || 'keith bot';
+const dev = process.env.OWNER_NUMBER || '+2347044290829';
 const DevKeith = dev.split(",");
 const botname = process.env.BOTNAME || 'KEITH-MD';
 const mode = process.env.MODE || 'public';
